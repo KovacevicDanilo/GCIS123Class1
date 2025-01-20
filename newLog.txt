@@ -1,0 +1,29 @@
+commit eabdcdebcc5bb9c556fdbd9e176a41a92f6e8612
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:54:22 2025 +0400
+
+    Added new text
+
+commit 11fcd27f14d2d509d3cea60735c21d00817703be
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:53:30 2025 +0400
+
+    Added text
+
+commit 87de00744803795d4917d4282d7c35275f955d4b
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:50:26 2025 +0400
+
+    Inital commit for Log1.txt and update for abcd.txt
+
+commit c16f631c5187211fb0f5d80c543a10e149e0ad9e
+Author: KovacevicDanilo <85792759+KovacevicDanilo@users.noreply.github.com>
+Date:   Fri Jan 17 10:35:26 2025 +0400
+
+    Create pulling.txt
+
+commit 59411b56c59335c60c5d2b35295d7d4133b3fd55
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Fri Jan 17 09:31:44 2025 +0400
+
+    file creation
