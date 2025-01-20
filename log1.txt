@@ -1,0 +1,11 @@
+commit c16f631c5187211fb0f5d80c543a10e149e0ad9e
+Author: KovacevicDanilo <85792759+KovacevicDanilo@users.noreply.github.com>
+Date:   Fri Jan 17 10:35:26 2025 +0400
+
+    Create pulling.txt
+
+commit 59411b56c59335c60c5d2b35295d7d4133b3fd55
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Fri Jan 17 09:31:44 2025 +0400
+
+    file creation
