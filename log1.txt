@@ -1,3 +1,61 @@
+commit c920bc2fcd04bb0a8f30ac4564727a0bcf89034e
+Merge: 8211d4e e3b08b3
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 10:35:38 2025 +0400
+
+    conf resolved
+
+commit 8211d4eaaa58b4097446eb27bfcaad554827d35d
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 10:34:38 2025 +0400
+
+    conf 2
+
+commit e3b08b34f2ca390ff9a685ad5e63ee7b80b04644
+Author: KovacevicDanilo <85792759+KovacevicDanilo@users.noreply.github.com>
+Date:   Mon Jan 20 10:32:38 2025 +0400
+
+    Update abcd.txt
+
+commit 7534e57d9c3c92d7eb721fb236c6bed0ae443832
+Merge: 6244193 e8d6465
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 10:32:25 2025 +0400
+
+     adding log 2 and solving conflict in abcd.txt
+
+commit 6244193306944234282f330181f3ee4a82e254b3
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 10:27:56 2025 +0400
+
+    COnflicting
+
+commit e8d6465d54fc67e510f83903326fd7652c82aa92
+Author: KovacevicDanilo <85792759+KovacevicDanilo@users.noreply.github.com>
+Date:   Mon Jan 20 10:24:54 2025 +0400
+
+    Update abcd.txt
+    
+    Creating conflict
+
+commit eabdcdebcc5bb9c556fdbd9e176a41a92f6e8612
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:54:22 2025 +0400
+
+    Added new text
+
+commit 11fcd27f14d2d509d3cea60735c21d00817703be
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:53:30 2025 +0400
+
+    Added text
+
+commit 87de00744803795d4917d4282d7c35275f955d4b
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Mon Jan 20 09:50:26 2025 +0400
+
+    Inital commit for Log1.txt and update for abcd.txt
+
 commit c16f631c5187211fb0f5d80c543a10e149e0ad9e
 Author: KovacevicDanilo <85792759+KovacevicDanilo@users.noreply.github.com>
 Date:   Fri Jan 17 10:35:26 2025 +0400
